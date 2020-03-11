@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 
-public class MathOperateTest {
+public class MathOperationTest {
 
 	int x,y;
 	   @BeforeEach
